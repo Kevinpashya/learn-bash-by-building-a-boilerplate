@@ -88,3 +88,4 @@ style.css
 touch style.css
 rm style.css
 touch styles.css
+ls --color=auto
