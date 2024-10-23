@@ -94,3 +94,4 @@ touch .gitignore
 ls --color=auto
 command ls
 ls --color=auto --help
+ls --color=auto -a
