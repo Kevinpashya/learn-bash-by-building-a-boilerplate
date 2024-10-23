@@ -276,3 +276,6 @@ ls --color=auto
 find -name toms-website
 find
 find toms-website
+find
+ls --color=auto
+find website-boilerplate
