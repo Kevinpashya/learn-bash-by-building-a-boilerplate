@@ -223,3 +223,5 @@ find -name client
 find -name assets
 rm client/assets/icons
 mkdir client/assets/icons
+ls --color=auto
+mv CodeAlly.svg client/assets/icons
