@@ -66,3 +66,13 @@ cd has
 cd ..
 cd node modules
 cd ..
+cd ..
+pwd
+cd ..
+cd /freeCodeCamp/node_modules
+cd /freeCodeCamp
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
+cd node_modules
+cd ../..
