@@ -190,3 +190,20 @@ ls --color=auto
 mv header.png client/assets/images
 find -name header.png
 find -name footer.jpeg
+mv footer.jpeg client/assets/images
+cd images
+ls --color=auto
+mv footer ..
+mv footer.jpeg ..
+ls --color=auto
+cd ..
+ls --color=auto
+footer.jpeg client/assets/images
+mv footer.jpeg client/assets/images
+cd client/assets/images
+ls --color=auto
+mv footer.jpeg ../../..
+cd ../../..
+ls --color=auto
+mv footer.jpeg images
+mv images/footer.jpeg client/assets/images
