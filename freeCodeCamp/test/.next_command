@@ -161,3 +161,5 @@ mv index.html client/src
 find
 ls --color=auto
 mv index.js client/src
+mv styles.cc client/src
+mv styles.css client/src
